@@ -31,20 +31,25 @@
 
 ---
 
-<h3 align="center">📁 Proyectos Destacados</h3>
+<h3 align="center">📁 Repositorios Destacados</h3>
 
 <div align="center">
   <table border="0">
     <tr>
       <td>
-        <a href="TU_LINK_PROYECTO_1">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaraGomz&repo=NOMBRE_TU_REPOSITORIO_1&theme=react&border_radius=10" alt="Proyecto 1" />
+        <a href="https://github.com/SaraGomz/1-DAW">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaraGomz&repo=1-DAW&theme=react&border_radius=10" alt="Proyecto 1" />
         </a>
       </td>
       <td>
-        <a href="TU_LINK_PROYECTO_2">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaraGomz&repo=NOMBRE_TU_REPOSITORIO_2&theme=react&border_radius=10" alt="Proyecto 2" />
+        <a href="https://github.com/SaraGomz/2DAW">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaraGomz&repo=2DAW&theme=react&border_radius=10" alt="Proyecto 2" />
         </a>
+      </td>
+      <td>
+          <a href="https://github.com/dendia2/agrocontrol">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaraGomz&repo=NOMBRE_TU_REPOSITORIO_1&theme=react&border_radius=10" alt="Proyecto 1" />
+          </a>
       </td>
     </tr>
   </table>
