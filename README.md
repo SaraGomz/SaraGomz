@@ -5,19 +5,18 @@
 
 **Web Developer | Aspirante a Fullstack | Entusiasta de IA & Data**
 <p align="justify">
-Soy una desarrolladora web con una meta clara: fusionar el desarrollo con el **Big Data** y la **IA** para convertirme en una ingeniera Fullstack capaz de construir soluciones inteligentes y basadas en datos.
+<b></b>Soy una desarrolladora web con una meta clara: fusionar el desarrollo con el **Big Data** y la **IA** para convertirme en una ingeniera Fullstack capaz de construir soluciones inteligentes y basadas en datos.</b>
 </p>
 ---
 
 ### 🔭 En qué estoy trabajando:
 
 <p align="justify">
-
-**Evolución Fullstack:** Perfeccionando mi base de desarrollo para dar el salto al estudio del Big Data.
-
-**Investigación en Agentes de IA:** Exploro cómo integrar nuevas arquitecturas de agentes de IA en el flujo de trabajo diario para optimizar la productividad.
-
-**Proyectos & Formación:** Siempre con un nuevo repositorio en mente y estudios constantes para complementar mi formación técnica.
+  <b>Evolución Fullstack:</b> Perfeccionando mi base de desarrollo para dar el salto al estudio del Big Data.
+  <br><br>
+  <b>Investigación en Agentes de IA:</b> Exploro cómo integrar nuevas arquitecturas de agentes de IA en el flujo de trabajo diario para optimizar la productividad.
+  <br><br>
+  <b>Proyectos & Formación:</b> Siempre con un nuevo repositorio en mente y estudios constantes para complementar mi formación técnica.
 </p>
 
 ---
