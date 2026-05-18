@@ -62,15 +62,6 @@
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SaraGomz&layout=compact&theme=react&hide_border=false&langs_count=10" alt="Most Used Languages" />
 </div>
----
-
-<h3 align="center">📊 Lenguajes más usados</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaraGomz&layout=compact&theme=react&hide_border=false&langs_count=10" alt="Most Used Languages" />
-</div>
-
-<br/>
 
 ---
 
