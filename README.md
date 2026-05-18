@@ -7,6 +7,7 @@
 <p align="justify">
 <b></b>Soy una desarrolladora web con una meta clara: fusionar el desarrollo con el **Big Data** y la **IA** para convertirme en una ingeniera Fullstack capaz de construir soluciones inteligentes y basadas en datos.</b>
 </p>
+
 ---
 
 ### 🔭 En qué estoy trabajando:
