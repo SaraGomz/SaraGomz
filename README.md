@@ -39,15 +39,6 @@
 
 ---
 
-# 📊 GitHub Stats:
-<img src="https://github-readme-stats.shion.dev/api?username=SaraGomz&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="Stats" />
-<br><br>
-<img src="https://streak-stats.demolab.com/?user=SaraGomz&theme=react&hide_border=false" alt="Streak" />
-<br><br>
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SaraGomz&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Langs" />
-
----
-
 <h3 align="center">📁 Repositorios Destacados</h3>
 
 <div align="center">
@@ -79,6 +70,17 @@
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SaraGomz&layout=compact&theme=react&hide_border=false&langs_count=10" alt="Most Used Languages" />
 </div>
+
+
+---
+
+
+# 📊 GitHub Stats:
+<img src="https://github-readme-stats.shion.dev/api?username=SaraGomz&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="Stats" />
+<br><br>
+<img src="https://streak-stats.demolab.com/?user=SaraGomz&theme=react&hide_border=false" alt="Streak" />
+<br><br>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SaraGomz&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Langs" />
 
 ---
 
