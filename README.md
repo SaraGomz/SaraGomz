@@ -10,8 +10,9 @@ Soy una desarrolladora web con una meta clara: fusionar el desarrollo con el **B
 ---
 
 ### 🔭 En qué estoy trabajando:
-<p align="justify">
-**Evolución Fullstack:** Perfeccionando mi base de desarrollo para dar el salto al estudio del Big Data.
+
+**Evolución Fullstack:** 
+<p align="justify">Perfeccionando mi base de desarrollo para dar el salto al estudio del Big Data.
 
 **Investigación en Agentes de IA:** Exploro cómo integrar nuevas arquitecturas de agentes de IA en el flujo de trabajo diario para optimizar la productividad.
 
