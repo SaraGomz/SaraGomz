@@ -34,25 +34,33 @@
 <h3 align="center">📁 Repositorios Destacados</h3>
 
 <div align="center">
-  <table>
+  <table border="0">
     <tr>
       <td align="center">
         <a href="https://github.com/SaraGomz/1-DAW">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaraGomz&repo=1-DAW&theme=react&border_radius=10" alt="Proyecto 1" />
+          <img src="https://github-readme-stats.shion.dev/api/pin/?username=SaraGomz&repo=1-DAW&theme=react&border_radius=10" alt="Proyecto 1" />
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/SaraGomz/2DAW">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaraGomz&repo=2DAW&theme=react&border_radius=10" alt="Proyecto 2" />
+          <img src="https://github-readme-stats.shion.dev/api/pin/?username=SaraGomz&repo=2DAW&theme=react&border_radius=10" alt="Proyecto 2" />
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/dendia2/agrocontrol">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=dendia2&repo=agrocontrol&theme=react&border_radius=10" alt="Agrocontrol" />
+          <img src="https://github-readme-stats.shion.dev/api/pin/?username=dendia2&repo=agrocontrol&theme=react&border_radius=10" alt="Agrocontrol" />
         </a>
       </td>
     </tr>
   </table>
+</div>
+
+---
+
+<h3 align="center">📊 Lenguajes más usados</h3>
+
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SaraGomz&layout=compact&theme=react&hide_border=false&langs_count=10" alt="Most Used Languages" />
 </div>
 ---
 
