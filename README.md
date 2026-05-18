@@ -4,23 +4,28 @@
 ¡Hola! Soy Sara <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 **Web Developer | Aspirante a Fullstack | Entusiasta de IA & Data**
-
+<p align="justify">
 Soy una desarrolladora web con una meta clara: fusionar el desarrollo con el **Big Data** y la **IA** para convertirme en una ingeniera Fullstack capaz de construir soluciones inteligentes y basadas en datos.
-
+</p>
 ---
 
 ### 🔭 En qué estoy trabajando:
-
+<p align="justify">
 **Evolución Fullstack:** Perfeccionando mi base de desarrollo para dar el salto al estudio del Big Data.
 
 **Investigación en Agentes de IA:** Exploro cómo integrar nuevas arquitecturas de agentes de IA en el flujo de trabajo diario para optimizar la productividad.
 
 **Proyectos & Formación:** Siempre con un nuevo repositorio en mente y estudios constantes para complementar mi formación técnica.
+</p>
 
 ---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SaraGomz) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sara.gomtorr@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/saraagtt_)
+# 📊 GitHub Stats:
+<img src="https://github-readme-stats.shion.dev/api?username=SaraGomz&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="Stats" />
+
+<img src="https://streak-stats.demolab.com/?user=SaraGomz&theme=react&hide_border=false" alt="Streak" />
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SaraGomz&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Langs" />
 
 ---
 
@@ -37,12 +42,8 @@ Soy una desarrolladora web con una meta clara: fusionar el desarrollo con el **B
 
 ---
 
-# 📊 GitHub Stats:
-<img src="https://github-readme-stats.shion.dev/api?username=SaraGomz&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="Stats" />
-
-<img src="https://streak-stats.demolab.com/?user=SaraGomz&theme=react&hide_border=false" alt="Streak" />
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SaraGomz&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Langs" />
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SaraGomz) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sara.gomtorr@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/saraagtt_)
 
 ---
 
