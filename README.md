@@ -34,19 +34,19 @@
 <h3 align="center">📁 Repositorios Destacados</h3>
 
 <div align="center">
-  <table border="0">
+  <table>
     <tr>
-      <td width="33%" align="center">
+      <td align="center">
         <a href="https://github.com/SaraGomz/1-DAW">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaraGomz&repo=1-DAW&theme=react&border_radius=10" alt="Proyecto 1" />
         </a>
       </td>
-      <td width="33%" align="center">
+      <td align="center">
         <a href="https://github.com/SaraGomz/2DAW">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaraGomz&repo=2DAW&theme=react&border_radius=10" alt="Proyecto 2" />
         </a>
       </td>
-      <td width="33%" align="center">
+      <td align="center">
         <a href="https://github.com/dendia2/agrocontrol">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=dendia2&repo=agrocontrol&theme=react&border_radius=10" alt="Agrocontrol" />
         </a>
@@ -54,7 +54,6 @@
     </tr>
   </table>
 </div>
-
 ---
 
 <h3 align="center">📊 Lenguajes más usados</h3>
