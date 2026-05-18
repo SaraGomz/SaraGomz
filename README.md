@@ -24,10 +24,41 @@
 
 # 📊 GitHub Stats:
 <img src="https://github-readme-stats.shion.dev/api?username=SaraGomz&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="Stats" />
-
+<br><br>
 <img src="https://streak-stats.demolab.com/?user=SaraGomz&theme=react&hide_border=false" alt="Streak" />
-
+<br><br>
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SaraGomz&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Langs" />
+
+---
+
+<h3 align="center">📁 Proyectos Destacados</h3>
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <a href="TU_LINK_PROYECTO_1">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaraGomz&repo=NOMBRE_TU_REPOSITORIO_1&theme=react&border_radius=10" alt="Proyecto 1" />
+        </a>
+      </td>
+      <td>
+        <a href="TU_LINK_PROYECTO_2">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaraGomz&repo=NOMBRE_TU_REPOSITORIO_2&theme=react&border_radius=10" alt="Proyecto 2" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<h3 align="center">📊 Lenguajes más usados</h3>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaraGomz&layout=compact&theme=react&hide_border=false&langs_count=10" alt="Most Used Languages" />
+</div>
+
+<br/>
 
 ---
 
